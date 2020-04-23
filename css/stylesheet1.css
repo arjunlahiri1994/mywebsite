@@ -1,4 +1,19 @@
+body{
+  background-color: #00a8cc;
+  text-align: center;
+}
 h1
 {
-color:red;
+  color: #142850;
+}
+p
+{
+  color: #142850;
+}
+hr
+{
+  border-style: dotted none none none;
+  border-width: 5px ;
+  color: white;
+  width: 10%;
 }
