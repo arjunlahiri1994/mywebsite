@@ -31,7 +31,7 @@ hr
 	padding:13px 32px;
 	text-decoration:none;
 	text-shadow:0 1px 0 #3d768a;
-  width:10%;
+  	width:20%;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
